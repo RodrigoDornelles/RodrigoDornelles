@@ -1,16 +1,14 @@
-### Hi there 👋
+| ![website](https://cdn.discordapp.com/attachments/268884978132058112/735127699072221264/adress.png) | [https://rodrigo.dornelles.me](https://rodrigo.dornelles.me) |
+| ----------------- | :- |
 
-<!--
-**RodrigoDornelles/RodrigoDornelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ![mail](https://cdn.discordapp.com/attachments/268884978132058112/735127675357888543/email_1.png) | [rodrigo@dornelles.me](mailto:rodrigo@dornelles.me) |
+| ----------------- | :- |
 
-Here are some ideas to get you started:
+| ![phone number](https://cdn.discordapp.com/attachments/268884978132058112/735127717212848199/whatsapp_2.png) | [+55 (51) 989434229](https://wa.me/5551989434229) |
+| ----------------- | :- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![linkedin](https://cdn.discordapp.com/attachments/268884978132058112/735127735856398336/linkedin_1.png) | [in/rodrigo-poa](https://www.linkedin.com/in/rodrigo-poa) |
+| ----------------- | :- |
+
+| ![twitch](https://cdn.discordapp.com/attachments/268884978132058112/735127725161054268/twitch_1.png) | [DornellesTv](https://www.twitch.tv/dornellestv) |
+| ----------------- | :- |
