@@ -1,4 +1,4 @@
-| ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&theme=buefy&hide=stars,prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&layout=compact&theme=buefy&hide=html)
+| ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&theme=buefy&hide=stars,issues) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&layout=compact&theme=buefy&hide=html)
 | - | - |
 
 | | |
