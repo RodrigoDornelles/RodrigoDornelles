@@ -6,5 +6,8 @@
 [![website](https://img.shields.io/badge/website-rodrigo.dornelles.me-6bbbca?style=for-the-badge&logo=rss)](https://rodrigo.dornelles.me)
 [![email](https://img.shields.io/badge/email-rodrigo@dornelles.me-6bbbca?style=for-the-badge&logo=Mail.Ru)](mailto:rodrigo@dornelles.me)
 
+[![instagram](https://img.shields.io/badge/instagram-rdsolucoes%2Etec%2Ebr-6bbbca?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rdsolucoes.tec.br/)
 [![phone](https://img.shields.io/badge/phone-%2B55%20(51)%20989434229-6bbbca?style=for-the-badge&logo=WhatsApp)](https://wa.me/5551989434229)
-[![linkedin](https://img.shields.io/badge/linkedin-in%2Frdornelles-6bbbca?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rdornelles)
+
+[![linkedin personal](https://img.shields.io/badge/linkedin-in%2Frdornelles-6bbbca?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rdornelles)
+[![linkedin business](https://img.shields.io/badge/linkedin-company%2Frdornelles-6bbbca?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/rdornelles)
