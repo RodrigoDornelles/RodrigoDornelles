@@ -3,7 +3,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=stars,issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&layout=compact&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
 
-[![website](https://img.shields.io/badge/website-rodrigo.dornelles.me-6bbbca?style=for-the-badge&logo=rss)](https://rodrigo.dornelles.me)
+[![website](https://img.shields.io/badge/website-www.rdsolucoes.tec.br-6bbbca?style=for-the-badge&logo=rss)](https://rdornelles.github.io)
 [![email](https://img.shields.io/badge/email-rodrigo@dornelles.me-6bbbca?style=for-the-badge&logo=Mail.Ru)](mailto:rodrigo@dornelles.me)
 
 [![instagram](https://img.shields.io/badge/instagram-rdsolucoes%2Etec%2Ebr-6bbbca?style=for-the-badge&logo=Instagram)](https://www.instagram.com/rdsolucoes.tec.br/)
