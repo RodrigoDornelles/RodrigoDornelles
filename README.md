@@ -15,9 +15,9 @@
  * **Company fancy name:** Rodrigo Dornelles Soluções Tecnólogicas
  * **Company website:** <https://rdsolucoes.tec.br>
  * **Company number:** [+55 (51) 989 434 229](https://wa.me/5551989434229)
- * **Company mail:** <contato@rdsolucoes.tec.br> 
+ * **Company mail:** <staff@rdsolucoes.tec.br> 
 
-## My Contributions ##
+## Contributions ##
  
  * **Personal projects:** <https://github.com/RodrigoDornelles?tab=repositories&type=source>
  * **Gamedev projects:** <https://github.com/psywave-games>
