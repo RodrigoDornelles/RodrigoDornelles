@@ -10,12 +10,14 @@
 [![https://www.linkedin.com/in/rdornelles](https://img.shields.io/badge/in%2Frdornelles-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca)](https://www.linkedin.com/in/rdornelles)
 [![https://www.linkedin.com/company/rdornelles](https://img.shields.io/badge/company%2Frdornelles-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca)](https://www.linkedin.com/company/rdornelles)
 
+<!-- Largar meu cnpj e ir viver no mato?
 ## Business ##
 
  * **Company fancy name:** Rodrigo Dornelles Soluções Tecnólogicas
  * **Company website:** <https://rdsolucoes.tec.br>
  * **Company number:** [+55 (51) 989 434 229](https://wa.me/5551989434229)
  * **Company mail:** <staff@rdsolucoes.tec.br> 
+-->
 
 ## Contributions ##
  
