@@ -6,7 +6,7 @@
 ## Social Media ##
 
 [![https://twitch/dornellestv](https://img.shields.io/badge/DornellesTv-333?style=for-the-badge&logo=twitch&logoColor=6bbbca)](https://www.twitch.tv/dornellestv)
-[![https://instagram/rdsolucoes.tec.br](https://img.shields.io/badge/rdsolucoes.tec.br-333?style=for-the-badge&logo=Instagram&logoColor=6bbbca)](https://www.instagram.com/rdsolucoes.tec.br/)
+[![https://instagram/dornellestv](https://img.shields.io/badge/dornellestv-333?style=for-the-badge&logo=Instagram&logoColor=6bbbca)](https://www.instagram.com/dornellestv/)
 [![https://www.linkedin.com/in/rdornelles](https://img.shields.io/badge/in%2Frdornelles-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca)](https://www.linkedin.com/in/rdornelles)
 [![https://www.linkedin.com/company/rdornelles](https://img.shields.io/badge/company%2Frdornelles-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca)](https://www.linkedin.com/company/rdornelles)
 
