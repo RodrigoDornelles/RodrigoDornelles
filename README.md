@@ -3,6 +3,10 @@
 | ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
 
+<!-- unbalanced stats <https://github.com/anuraghazra/github-readme-stats/pull/1186> -->
+
+<!-- use this? ![](https://github-readme-streak-stats.herokuapp.com?user=rodrigodornelles&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=333&stroke=333&ring=6bbbca&fire=fff&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) -->
+
 ## Social Media ##
 
 [![https://twitch/dornellestv](https://img.shields.io/badge/DornellesTv-333?style=for-the-badge&logo=twitch&logoColor=6bbbca)](https://www.twitch.tv/dornellestv)
