@@ -1,4 +1,5 @@
 ![github-communist](https://cdn.discordapp.com/attachments/268884978132058112/775046941537075210/beopensource.jpeg)
+**`lock u copilot, appreciate your work!`** <!-- microsoft sucks ur code and appropriate this. -->
 
 | ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
