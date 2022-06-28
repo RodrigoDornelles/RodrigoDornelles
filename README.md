@@ -1,10 +1,27 @@
 ![github-communist](https://cdn.discordapp.com/attachments/268884978132058112/775046941537075210/beopensource.jpeg)
 **`lock u copilot, appreciate your work!`** <!-- microsoft sucks ur code and appropriate this. -->
 
+<!--
+                                                                                  
+    //    / /                                                                  // 
+   //___ / / ( )       ___    __  ___  ___     // / ___      ___      __      //  
+  / ___   / / /      ((   ) )  / /   //   ) ) // //\ \     //___) ) //  ) )  //   
+ //    / / / /        \ \     / /   //   / / // //  \ \   //       //             
+//    / / / /      //   ) )  / /   ((___( ( // //    \ \ ((____   //       //     
+
+welcome to my github stats, is messy, has some rants, feel free to copy me! (FREE AS IN FREEDOM)
+-->
+
+<!-- OLD and unbalanced https://github.com/anuraghazra/github-readme-stats/pull/1186
 | ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
+--> 
 
-<!-- unbalanced stats <https://github.com/anuraghazra/github-readme-stats/pull/1186> -->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigodornelles&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodrigodornelles&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodrigodornelles&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigodornelles&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=rodrigodornelles&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=333&stroke=333&ring=6bbbca&fire=fff&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 <!-- use this? ![](https://github-readme-streak-stats.herokuapp.com?user=rodrigodornelles&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=333&stroke=333&ring=6bbbca&fire=fff&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) -->
 
