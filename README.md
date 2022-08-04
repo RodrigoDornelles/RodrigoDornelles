@@ -50,3 +50,5 @@ welcome to my github stats, is messy, has some rants, feel free to copy me! (FRE
  * **Gamedev projects:** <https://github.com/psywave-games>
  * **Business projects:** <https://github.com/rdornelles>
  * **My own language:** <https://3bc-lang.org>
+
+<!-- agosto é o mes da tristeza, por isso estou triste :c -->
