@@ -42,13 +42,15 @@ welcome to my github stats, is messy, has some rants, feel free to copy me! (FRE
  * **Company website:** <https://rdsolucoes.tec.br>
  * **Company number:** [+55 (51) 989 434 229](https://wa.me/5551989434229)
  * **Company mail:** <staff@rdsolucoes.tec.br> 
--->
+
+<!-- sim, picareta e marreta é uma referencia ao comunismo, stalinismo e trotsky. -->
 
 ## Contributions ##
  
- * **Personal projects:** <https://github.com/RodrigoDornelles?tab=repositories&type=source>
- * **Gamedev projects:** <https://github.com/psywave-games>
- * **Business projects:** <https://github.com/rdornelles>
- * **My own language:** <https://3bc-lang.org>
+ * :pick: **Personal projects:** <https://github.com/RodrigoDornelles?tab=repositories&type=source>
+ * :hammer: **Personal scripts:** <https://gist.github.com/RodrigoDornelles>
+ * :video_game: **Gamedev projects:** <https://github.com/psywave-games>
+ * :office: **Business projects:** <https://github.com/rdornelles>
+ * :three: **My own language:** <https://3bc-lang.org>
 
 <!-- agosto é o mes da tristeza, por isso estou triste :c -->
