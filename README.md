@@ -12,6 +12,8 @@
 welcome to my github stats, is messy, has some rants, feel free to copy me! (FREE AS IN FREEDOM)
 -->
 
+<!-- TODO: add https://spotify-recently-played-readme.vercel.app/api?user=31rh5cd56rimaygpuq54lmvjdk34 -->
+
 <!-- OLD and unbalanced https://github.com/anuraghazra/github-readme-stats/pull/1186
 | ![](https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
