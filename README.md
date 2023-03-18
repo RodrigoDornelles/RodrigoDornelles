@@ -56,3 +56,4 @@ welcome to my github stats, is messy, has some rants, feel free to copy me! (FRE
  * :three: **My own language:** <https://3bc-lang.org>
 
 <!-- agosto é o mes da tristeza, por isso estou triste :c -->
+<!-- ultima semaninha de trampo no grupo digicon, e estou feliz :) -->
