@@ -75,3 +75,4 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 <!-- agosto é o mes da tristeza, por isso estou triste :c -->
 <!-- ultima semaninha de trampo no grupo digicon, e estou feliz :) -->
 <!-- trampo atual tenho potencial, porém não tenho carne no freezer :c (craere) -->
+<!-- comprei um FIATUNO, to feliz :) -->
