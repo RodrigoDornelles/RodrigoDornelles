@@ -11,7 +11,7 @@ welcome to my github stats, is messy, has some rants, feel free to copy me! (FRE
 Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 ===
 
-| <img src="https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats" width="600px"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css,vue,javascript&title_color=6bbbca" width="600px"/> | <img src="https://cdn.discordapp.com/attachments/268884978132058112/775046941537075210/beopensource.jpeg"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats" width="600px"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css,vue,javascript&title_color=6bbbca" width="600px"/> | <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k"/> |
 | :-: | :-: |
 
 <!-- old slogan
@@ -21,10 +21,10 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 
 <div align="center">
 
-[![https://twitch/dornellestv](https://img.shields.io/badge/DornellesTv-333?style=for-the-badge&logo=twitch&logoColor=6bbbca)](https://www.twitch.tv/dornellestv)
-[![https://www.tiktok.com/@dornellestv](https://img.shields.io/badge/dornellestv-333?style=for-the-badge&logo=Tiktok&logoColor=6bbbca)](https://www.tiktok.com/@dornellestv)
-[![https://www.linkedin.com/in/rodrigo-poa](https://img.shields.io/badge/in%2Frodrigo--poa-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca)](https://www.linkedin.com/in/rodrigo-poa)
-[![https://github.com/sponsors/RodrigoDornelles](https://img.shields.io/github/sponsors/rodrigodornelles?color=ff69b4&logo=github&style=for-the-badge&labelColor=ff69b4&label=gh%20sponsors)](https://github.com/sponsors/RodrigoDornelles)
+<a href="https://twitch/dornellestv"><img src="https://img.shields.io/badge/DornellesTv-333?style=for-the-badge&logo=twitch&logoColor=6bbbca" height="32"/></a>
+<a href="https://tiktok.com/@dornellestv"><img src="https://img.shields.io/badge/dornellestv-333?style=for-the-badge&logo=Tiktok&logoColor=6bbbca" height="32"/></a>
+<a href="https://linkedin.com/in/rodrigo-poa"><img src="https://img.shields.io/badge/in%2Frodrigo--poa-333?style=for-the-badge&logo=linkedin&logoColor=6bbbca" height="32"/></a>
+<a href="https://github.com/sponsors/RodrigoDornelles"><img src="https://img.shields.io/github/sponsors/rodrigodornelles?color=ff69b4&logo=github&style=for-the-badge&labelColor=ff69b4&label=gh%20sponsors" height="32"/></a>
 
 </div>
 
