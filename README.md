@@ -8,16 +8,28 @@
 welcome to my github stats, is messy, has some rants, feel free to copy me! (FREE AS IN FREEDOM)
 -->
 
+<!-- homeless
 Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 ===
+-->
+
+<!--
 
 | <img src="https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats" width="600px"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css,vue,javascript&title_color=6bbbca" width="600px"/> | <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k"/> |
 | :-: | :-: |
+
+-->
+
+| <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/homeless-donatello.jpeg" /> |
+| :-- |
+| I recently lost everything I owned: my car, house, computers and clothes. help the victims of **Rio Grande do Sul**.  when i will back end make my contributions to the opensource community! |
 
 <!-- old slogan
 **`lock u copilot, appreciate your work!`**
 -->
 <!-- microsoft sucks ur code and appropriate this. -->
+
+<!-- homeless
 
 <div align="center">
 
@@ -27,6 +39,8 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 <a href="https://github.com/sponsors/RodrigoDornelles"><img src="https://img.shields.io/github/sponsors/rodrigodornelles?color=ff69b4&logo=github&style=for-the-badge&labelColor=ff69b4&label=gh%20sponsors" height="32"/></a>
 
 </div>
+
+-->
 
 <!-- TODO: add https://spotify-recently-played-readme.vercel.app/api?user=31rh5cd56rimaygpuq54lmvjdk34 -->
 
@@ -64,12 +78,15 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 
 <!-- sim, picareta e marreta é uma referencia ao comunismo, stalinismo e trotsky. -->
 
+<!-- homeless
 ## Contributions ##
  
  * :pick: **Personal projects:** <https://github.com/RodrigoDornelles?tab=repositories&type=source>
  * :hammer: **Personal scripts:** <https://gist.github.com/RodrigoDornelles>
  * :video_game: **Gamedev projects:** <https://github.com/psywave-games>
  * :three: **My own language:** <https://3bc-lang.org>
+-->
+
 <!-- * :office: **Business projects:** <https://github.com/rdornelles> -->
 
 <!-- agosto é o mes da tristeza, por isso estou triste :c -->
