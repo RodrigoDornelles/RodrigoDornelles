@@ -22,7 +22,7 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 
 | <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/homeless-donatello.jpeg" /> |
 | :-- |
-| I recently lost everything I owned: my car, house, computers and clothes. help the victims of **Rio Grande do Sul**.  when i will back end make my contributions to the opensource community! |
+| I recently lost everything I owned: my car, house, computers, and clothes. help the victims of **Rio Grande do Sul**. When I'm back on my feet, I'll continue making contributions to the open-source community! |
 
 <!-- old slogan
 **`lock u copilot, appreciate your work!`**
