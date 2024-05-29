@@ -8,29 +8,24 @@
 welcome to my github stats, is messy, has some rants, feel free to copy me! (FREE AS IN FREEDOM)
 -->
 
-<!-- homeless
 Hi, Dornelles Here! :cowboy_hat_face: :brazil:
-===
--->
-
-<!--
 
 | <img src="https://github-readme-stats.vercel.app/api?username=rodrigodornelles&hide=issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats" width="600px"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodornelles&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css,vue,javascript&title_color=6bbbca" width="600px"/> | <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k"/> |
 | :-: | :-: |
 
--->
 
+<!-- quero morar na praia
 # `pix.dornelles@gmail.com`
 
 | <img src="https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/homeless-donatello.jpeg" /> | I recently lost everything I owned: my car, house, computers, and clothes. help the victims of `Rio Grande do Sul`. When I'm back on my feet, I'll continue making contributions to the open-source community! |
 | :-- | :-- |
 
+-->
+
 <!-- old slogan
 **`lock u copilot, appreciate your work!`**
 -->
 <!-- microsoft sucks ur code and appropriate this. -->
-
-<!-- homeless
 
 <div align="center">
 
@@ -40,8 +35,6 @@ Hi, Dornelles Here! :cowboy_hat_face: :brazil:
 <a href="https://github.com/sponsors/RodrigoDornelles"><img src="https://img.shields.io/github/sponsors/rodrigodornelles?color=ff69b4&logo=github&style=for-the-badge&labelColor=ff69b4&label=gh%20sponsors" height="32"/></a>
 
 </div>
-
--->
 
 <!-- TODO: add https://spotify-recently-played-readme.vercel.app/api?user=31rh5cd56rimaygpuq54lmvjdk34 -->
 
