@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Ping Pong",
+        "version": "1.0.0",
+        "author": "RodrigoDornelles",
+        "raw_url": "http://gh.dornelles.me/games/pong.lua"
+    },
+    {
+        "title": "Asteroids",
+        "version": "1.0.0",
+        "author": "RodrigoDornelles",
+        "raw_url": "http://gh.dornelles.me/games/asteroids.lua"
+    },
+    {
+        "title": "Brocos",
+        "version": "1.0.0",
+        "author": "diegofs01",
+        "raw_url": "http://gh.dornelles.me/games/brocos.lua"
+    },
+    {
+        "title": "Ping Pong (render test)",
+        "version": "1.0.0",
+        "author": "RodrigoDornelles",
+        "raw_url": "http://gh.dornelles.me/games/pong_render.lua"
+    }
+]
