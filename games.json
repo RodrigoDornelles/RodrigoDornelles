@@ -3,24 +3,24 @@
         "title": "Ping Pong",
         "version": "1.0.0",
         "author": "RodrigoDornelles",
-        "raw_url": "http://t.gamely.com/games/pong.lua"
+        "raw_url": "http://t.gamely.com.br/games/pong.lua"
     },
     {
         "title": "Asteroids",
         "version": "1.0.0",
         "author": "RodrigoDornelles",
-        "raw_url": "http://t.gamely.com/games/asteroids.lua"
+        "raw_url": "http://t.gamely.com.br/games/asteroids.lua"
     },
     {
         "title": "Brocos",
         "version": "1.0.0",
         "author": "diegofs01",
-        "raw_url": "http://t.gamely.com/games/brocos.lua"
+        "raw_url": "http://t.gamely.com.br/games/brocos.lua"
     },
     {
         "title": "Ping Pong (render test)",
         "version": "1.0.0",
         "author": "RodrigoDornelles",
-        "raw_url": "http://t.gamely.com/games/pong_render.lua"
+        "raw_url": "http://t.gamely.com.br/games/pong_render.lua"
     }
 ]
