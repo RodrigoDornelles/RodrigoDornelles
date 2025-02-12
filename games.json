@@ -1,6 +1,12 @@
 [
     {
         "title": "Ping Pong",
+        "version": "0.0.19",
+        "author": "RodrigoDornelles",
+        "raw_url": "http://t.gamely.com.br/games/pong18.lua"
+    },
+    {
+        "title": "Ping Pong",
         "version": "0.0.8",
         "author": "RodrigoDornelles",
         "raw_url": "http://t.gamely.com.br/games/pong8.lua"
