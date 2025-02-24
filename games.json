@@ -40,5 +40,11 @@
         "version": "0.0.7",
         "author": "RodrigoDornelles",
         "raw_url": "http://t.gamely.com.br/games/pong_render.lua"
+    },
+    {
+        "title": "192.168.3.22:5500",
+        "version": "0.0.0",
+        "author": "localhost",
+        "raw_url": "http://192.168.3.22:5500/dist/game.lua"
     }
 ]
