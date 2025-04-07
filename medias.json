@@ -4,5 +4,8 @@
   "http://t.gamely.com.br/rick-mjpeg.avi",
   "https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd",
   "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-  "https://www.youtube.com/watch?v=dVYl5ImNjow&list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi"
+  "https://www.youtube.com/watch?v=dVYl5ImNjow&list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi",
+  "sbtvd-ts://video",
+  "isdb-ts://video",
+  "null"
 ]
