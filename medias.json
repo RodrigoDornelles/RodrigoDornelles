@@ -5,6 +5,12 @@
   "https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd",
   "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
   "https://www.youtube.com/watch?v=dVYl5ImNjow&list=PL4Gr5tOAPttKUXrXjulSCYa-L4xIwDyTi",
+  "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
+  "https://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
+  "https://t.gamely.com.br/stream/rick-dash-h264-aac.mpd",
+  "https://t.gamely.com.br/stream/rick-dash-h264-flac.mpd",
+  "https://t.gamely.com.br/stream/rick-dash-h265-aac.mpd",
+  "https://t.gamely.com.br/stream/rick-dash-av1-aac.mpd",
   "sbtvd-ts://video",
   "isdb-ts://video",
   "null"
