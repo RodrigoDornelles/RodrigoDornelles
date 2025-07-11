@@ -30,6 +30,12 @@
         "raw_url": "http://t.gamely.com.br/games/asteroids8.lua"
     },
     {
+        "title": "Asteroids",
+        "version": "0.1.0",
+        "author": "RodrigoDornelles",
+        "raw_url": "http://t.gamely.com.br/games/asteroids01.lua"
+    },
+    {
         "title": "Brocos",
         "version": "0.0.6",
         "author": "diegofs01",
