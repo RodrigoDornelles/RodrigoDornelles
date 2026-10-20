@@ -1,0 +1,2268 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.4 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Thing 1 (Player)
+Exploding frame = 227
+
+Thing 2 (ECHIDNA (drops key))
+Initial frame = 601
+Hit points = 5000
+First moving frame = 603
+Alert sound = 45
+Injury frame = 619
+Pain chance = 5
+Pain sound = 51
+Far attack frame = 609
+Death frame = 621
+Exploding frame = 0
+Death sound = 69
+Speed = 12
+Width = 4194304
+Height = 7208960
+Mass = 1000
+Action sound = 77
+Respawn frame = 0
+
+Thing 3 (FOLLOWER)
+Hit points = 60
+Death sound = 61
+Mass = 75
+Respawn frame = 0
+
+Thing 4 (FALLEN FOLLOWER)
+Hit points = 60
+Alert sound = 37
+Attack sound = 2
+Injury frame = 220
+Pain chance = 170
+Pain sound = 27
+Far attack frame = 217
+Death frame = 272
+Exploding frame = 227
+Death sound = 59
+Speed = 8
+Mass = 75
+Action sound = 75
+
+Thing 5 (- UNUSED Archvile attack)
+
+Thing 6 (PREDATOR)
+Initial frame = 674
+First moving frame = 676
+Injury frame = 690
+Close attack frame = 339
+Death frame = 691
+Action sound = 0
+Respawn frame = 0
+
+Thing 7 (PRED. Fireball)
+Death sound = 105
+
+Thing 8 (Fireball Trail)
+Initial frame = 914
+Bits = 16
+
+Thing 9 (TRAIN BRAKE)
+Initial frame = 502
+First moving frame = 511
+Injury frame = 0
+Pain sound = 0
+Far attack frame = 511
+Death frame = 0
+Death sound = 0
+Speed = 0
+Action sound = 0
+Bits = 6
+Respawn frame = 0
+
+Thing 10 (- UNUSED Mancubus fireball)
+
+Thing 11 (MUTANT SOLDIER)
+Hit points = 150
+Alert sound = 39
+Pain sound = 28
+Exploding frame = 227
+
+Thing 12 (- UNUSED Imp)
+
+Thing 13 (BEASTLING)
+Close attack frame = 486
+Far attack frame = 653
+Speed = 12
+Missile damage = 1
+
+Thing 14 (GRATE BRAKE (High HP))
+Initial frame = 502
+Hit points = 1000
+First moving frame = 511
+Alert sound = 21
+Reaction time = 0
+Attack sound = 0
+Injury frame = 0
+Pain sound = 0
+Close attack frame = 0
+Far attack frame = 511
+Death frame = 0
+Death sound = 0
+Speed = 0
+Action sound = 0
+Bits = 0
+Respawn frame = 0
+
+Thing 15 (AEROSOL)
+Initial frame = 504
+Hit points = 260
+First moving frame = 587
+Pain sound = 42
+Far attack frame = 589
+Death sound = 104
+Speed = 12
+Action sound = 0
+Respawn frame = 0
+
+Thing 16 (CRITTER)
+Hit points = 20
+Injury frame = 542
+Pain sound = 0
+Close attack frame = 540
+Far attack frame = 0
+Death frame = 546
+Speed = 12
+Height = 1441792
+Action sound = 0
+Respawn frame = 0
+
+Thing 17 (- UNUSED Baron fireball)
+
+Thing 18 (- UNUSED Hell Knight)
+
+Thing 19 (LAND MINE)
+Initial frame = 701
+Hit points = 20
+First moving frame = 703
+Attack sound = 0
+Injury frame = 0
+Pain chance = 0
+Pain sound = 0
+Close attack frame = 811
+Far attack frame = 0
+Death frame = 811
+Death sound = 82
+Speed = 0
+Height = 524288
+Mass = 100
+Missile damage = 0
+Action sound = 0
+Bits = 524294
+
+Thing 20 (ECHIDNA)
+Hit points = 5000
+Attack sound = 1
+Pain chance = 5
+Pain sound = 51
+Far attack frame = 609
+Width = 4194304
+Height = 7208960
+
+Thing 21 (PHAGE)
+Initial frame = 726
+First moving frame = 728
+Injury frame = 538
+Death frame = 749
+Width = 3145728
+Action sound = 0
+Respawn frame = 0
+
+Thing 22 (CENTAUR)
+Initial frame = 442
+Hit points = 3000
+First moving frame = 444
+Attack sound = 44
+Injury frame = 450
+Pain sound = 51
+Far attack frame = 686
+Death frame = 346
+
+Thing 23 (- UNUSED Pain Elemental)
+Bits = 524294
+
+Thing 24 (- UNUSED SS Nazi)
+
+Thing 25 (HANGING POD)
+Pain sound = 0
+Death frame = 765
+Death sound = 103
+
+Thing 26 (- UNUSED Big Brain)
+Pain sound = 0
+
+Thing 27 (- UNUSED Demon Spawner)
+Reaction time = 0
+
+Thing 28 (- UNUSED Demon spawn spot)
+
+Thing 29 (- UNUSED Demon Spawn Cube)
+Initial frame = 114
+Alert sound = 8
+Death frame = 109
+Speed = 2621440
+Bits = 16848400
+
+Thing 30 (- UNUSED Demon spawn fire)
+
+Thing 31 (BARREL explosive)
+Death frame = 811
+
+Thing 32 (- UNUSED Imp Fireball)
+Initial frame = 107
+
+Thing 33 (AEROSOL Fireball)
+Speed = 1638400
+
+Thing 34 (GRENADE in flight)
+Initial frame = 107
+Alert sound = 0
+Speed = 1966080
+
+Thing 35 (NEUTRON Bullet)
+Initial frame = 114
+Death sound = 0
+Speed = 2097152
+Missile damage = 10
+
+Thing 36 (CLUSTER projectile)
+
+Thing 37 (PHAGE Fireball)
+Initial frame = 455
+Death sound = 0
+Speed = 2621440
+
+Thing 40 (INVISIBLE teleporter)
+
+Thing 41 (ITEM respawn fog)
+Bits = 262672
+
+Thing 43 (CLUSTER impact)
+
+Thing 44 (ARMOR RED)
+
+Thing 46 (- UNUSED Health potion)
+
+Thing 47 (- UNUSED Armor helmet)
+
+Thing 48 (GREEN keycard)
+
+Thing 49 (PURPLE keycard)
+
+Thing 50 (YELLOW keycard)
+
+Thing 51 (YELLOW key)
+
+Thing 52 (PURPLE key)
+
+Thing 53 (GREEN key)
+
+Thing 54 (HEALING MUSHROOM SMALL)
+
+Thing 56 (SUPER MUSHROOM)
+
+Thing 57 (- UNUSED Invulnerability)
+
+Thing 58 (- UNUSED Berserk sphere)
+
+Thing 59 (- UNUSED Blur sphere)
+
+Thing 60 (- UNUSED Radiation suit)
+
+Thing 62 (- UNUSED Lite amplification visor)
+
+Thing 63 (- UNUSED Megasphere)
+
+Thing 64 (PURPLE KEY (dropped by Echidna) clip)
+Initial frame = 836
+
+Thing 70 (- UNUSED Shells)
+
+Thing 75 (- UNUSED Chainsaw)
+
+Thing 79 (- UNUSED Super shotgun)
+
+Thing 80 (- UNUSED FRAMES Tall lamp)
+
+Thing 81 (- UNUSED FRAMES Tall lamp 2)
+
+Thing 82 (LASER LAMP)
+
+Thing 83 (MUSHROOM tall)
+
+Thing 84 (SMOKE STACK truck)
+
+Thing 85 (AMIRA captured amazon)
+
+Thing 86 (ART sphere with heads)
+
+Thing 87 (TIP OF MISSLE on floor)
+
+Thing 88 (FLARING)
+
+Thing 89 (FLIES)
+Bits = 0
+
+Thing 90 (FALLING WATER)
+Bits = 0
+
+Thing 91 (- UNUSED Grey tree)
+
+Thing 92 (- UNUSED FRAMES Tall blue torch)
+
+Thing 93 (FISH)
+
+Thing 94 (SLIME SPLATTER)
+Bits = 0
+
+Thing 95 (FIRE)
+
+Thing 96 (SPARKS frames 1)
+Bits = 768
+
+Thing 97 (BRAZIER)
+
+Thing 98 (BLACK PADDING)
+Width = 524288
+
+Thing 99 (LIGHT POLE)
+
+Thing 100 (CANDLE frame 1)
+
+Thing 101 (CANDLE frame 2)
+Bits = 6
+
+Thing 102 (HANGING FIRE)
+
+Thing 103 (CHAIN HANGING obstacle)
+
+Thing 104 (SPARKS frames 2)
+Initial frame = 942
+Hit points = 9900
+Mass = 9000
+Bits = 768
+
+Thing 105 (SPARKS used in MAP)
+
+Thing 106 (TIP OF MISSLE from ceiling obstacle)
+
+Thing 107 (CHAIN HANGING non-obstacle)
+
+Thing 108 (SPARKS from ceiling)
+Initial frame = 942
+
+Thing 109 (RED ALERT - gzdoom only)
+Bits = 784
+
+Thing 110 (TIP OF MISSLE from ceiling)
+
+Thing 111 (HANGING FIRE)
+
+Thing 112 (BROKEN GRATE)
+
+Thing 113 (DEAD AMAZON)
+Initial frame = 901
+
+Thing 114 (- UNUSED Dead Trooper)
+
+Thing 115 (DEAD BEASTLING)
+
+Thing 116 (- UNUSED Dead Lost Soul)
+
+Thing 117 (- UNUSED Dead Imp)
+
+Thing 118 (SKELETON on floor)
+Initial frame = 173
+
+Thing 119 (- STATE USED Guts and bones)
+
+Thing 120 (- STATE USED Guts and bones 2)
+
+Thing 121 (MUTANT TENTACLE)
+
+Thing 122 (EMPTY FRAME)
+
+Thing 123 (MISSLE standing)
+Initial frame = 887
+
+Thing 124 (MISSLE launched)
+
+Thing 125 (TOOTH BIG)
+
+Thing 126 (- STATE USED Twitching body)
+
+Thing 127 (TREE)
+
+Thing 128 (FALLEN FOLLOWER frames)
+
+Thing 129 (CHAIN HANGING non-obstacle)
+Bits = 768
+
+Thing 130 (4 MINIGUNS)
+Bits = 2
+
+Thing 131 (4 SHOTGUNS)
+Bits = 2
+
+Thing 132 (- UNUSED Hanging body 4)
+
+Thing 133 (- UNUSED Hanging body 5)
+
+Thing 134 (CHAIN HANGING non-obstacle)
+Bits = 768
+
+Thing 135 (EXPLOSION on sight)
+Initial frame = 502
+First moving frame = 127
+Alert sound = 82
+
+Thing 136 (EMPTY FRAME)
+
+Thing 137 (CEILING LIGHT frame used in item respawn)
+Bits = 784
+
+Frame 2
+Sprite number = 3
+Sprite subnumber = 3
+
+Frame 3
+Sprite number = 3
+Sprite subnumber = 3
+
+Frame 4
+Sprite number = 3
+Sprite subnumber = 3
+
+Frame 5
+Sprite number = 9
+Next frame = 35
+
+Frame 6
+Sprite number = 4
+Sprite subnumber = 0
+Duration = 6
+
+Frame 7
+Sprite number = 3
+Sprite subnumber = 4
+Duration = 4
+
+Frame 8
+Sprite number = 3
+Sprite subnumber = 3
+Duration = 5
+
+Frame 9
+Sprite number = 3
+Sprite subnumber = 3
+Duration = 4
+
+Frame 13
+Sprite number = 11
+Sprite subnumber = 3
+Duration = 3
+Next frame = 21
+
+Frame 14
+Sprite subnumber = 32769
+Duration = 0
+Next frame = 33
+
+Frame 15
+Duration = 2
+Next frame = 13
+
+Frame 16
+Sprite subnumber = 0
+Duration = 2
+
+Frame 17
+Sprite number = 3
+Sprite subnumber = 4
+Duration = 2
+Next frame = 6
+
+Frame 21
+Sprite number = 3
+Duration = 8
+Next frame = 10
+
+Frame 23
+Duration = 3
+
+Frame 24
+Duration = 4
+
+Frame 25
+Duration = 3
+
+Frame 26
+Duration = 4
+
+Frame 27
+Duration = 4
+
+Frame 28
+Duration = 4
+
+Frame 32
+Sprite number = 1
+Sprite subnumber = 2
+Duration = 0
+Next frame = 26
+
+Frame 33
+Sprite number = 3
+Sprite subnumber = 32769
+Duration = 2
+Next frame = 15
+
+Frame 34
+Sprite number = 3
+Sprite subnumber = 3
+
+Frame 35
+Sprite number = 9
+Duration = 2
+Next frame = 62
+
+Frame 36
+Next frame = 38
+
+Frame 37
+Next frame = 42
+
+Frame 38
+Sprite subnumber = 1
+Duration = 1
+Next frame = 37
+
+Frame 41
+Next frame = 43
+
+Frame 42
+Sprite subnumber = 2
+Next frame = 39
+
+Frame 43
+Sprite subnumber = 32775
+
+Frame 44
+Next frame = 81
+
+Frame 45
+Sprite number = 14
+Sprite subnumber = 32770
+Duration = 10
+
+Frame 46
+Sprite subnumber = 32776
+Duration = 5
+Next frame = 85
+
+Frame 47
+Sprite number = 3
+Sprite subnumber = 3
+Duration = 1
+
+Frame 48
+Sprite number = 3
+Sprite subnumber = 4
+Duration = 0
+Next frame = 6
+
+Frame 52
+Sprite number = 11
+Sprite subnumber = 32768
+Duration = 2
+
+Frame 53
+Sprite number = 2
+Sprite subnumber = 32768
+Duration = 2
+
+Frame 54
+Duration = 2
+Next frame = 135
+
+Frame 55
+Sprite subnumber = 0
+Duration = 3
+
+Frame 56
+Sprite subnumber = 0
+Duration = 3
+
+Frame 60
+Sprite number = 10
+Sprite subnumber = 32768
+Duration = 3
+
+Frame 61
+Sprite number = 10
+Sprite subnumber = 32769
+Duration = 3
+Next frame = 236
+
+Frame 62
+Sprite subnumber = 0
+
+Frame 63
+Sprite number = 9
+Sprite subnumber = 0
+Duration = 0
+Next frame = 60
+
+Frame 64
+Sprite number = 2
+Duration = 8
+
+Frame 65
+Sprite number = 8
+Sprite subnumber = 0
+
+Frame 66
+Sprite number = 8
+Sprite subnumber = 0
+
+Frame 67
+Sprite subnumber = 32768
+
+Frame 68
+Sprite subnumber = 32768
+Duration = 0
+Next frame = 69
+
+Frame 69
+Sprite number = 2
+Sprite subnumber = 32768
+Duration = 4
+Next frame = 70
+
+Frame 70
+Sprite number = 2
+Sprite subnumber = 32768
+Duration = 0
+Next frame = 71
+
+Frame 71
+Sprite subnumber = 32768
+
+Frame 72
+Sprite subnumber = 32769
+Duration = 0
+Next frame = 54
+
+Frame 73
+Sprite number = 2
+Sprite subnumber = 32769
+Duration = 6
+Next frame = 64
+
+Frame 77
+Sprite number = 13
+Sprite subnumber = 32768
+Next frame = 140
+
+Frame 78
+Sprite subnumber = 32769
+Duration = 0
+
+Frame 79
+Sprite number = 8
+
+Frame 80
+Sprite number = 8
+
+Frame 81
+Sprite subnumber = 32768
+
+Frame 82
+Sprite subnumber = 32768
+
+Frame 83
+Sprite subnumber = 32768
+
+Frame 84
+Sprite subnumber = 32769
+Duration = 4
+Next frame = 45
+
+Frame 85
+Sprite number = 6
+Sprite subnumber = 32777
+Duration = 4
+
+Frame 86
+Sprite number = 6
+Sprite subnumber = 3
+Duration = 2
+Next frame = 311
+
+Frame 87
+Sprite subnumber = 32768
+Duration = 0
+
+Frame 88
+Sprite number = 8
+Duration = 5
+
+Frame 89
+Sprite number = 8
+Sprite subnumber = 32768
+Duration = 5
+
+Frame 90
+Sprite subnumber = 32770
+
+Frame 91
+Sprite subnumber = 32769
+
+Frame 92
+Sprite subnumber = 32768
+
+Frame 93
+Duration = 3
+
+Frame 94
+Sprite subnumber = 32769
+Duration = 3
+
+Frame 95
+Sprite subnumber = 32770
+Duration = 3
+
+Frame 96
+Sprite subnumber = 32771
+Duration = 3
+Next frame = 97
+
+Frame 97
+Sprite number = 17
+Sprite subnumber = 32772
+Duration = 3
+Next frame = 0
+
+Frame 104
+Next frame = 355
+
+Frame 109
+Duration = 6
+
+Frame 112
+Next frame = 0
+
+Frame 117
+Duration = 7
+Next frame = 242
+
+Frame 118
+Duration = 9
+
+Frame 120
+Duration = 6
+
+Frame 121
+Duration = 5
+
+Frame 122
+Duration = 6
+
+Frame 129
+Next frame = 105
+
+Frame 130
+Sprite number = 8
+Sprite subnumber = 0
+Duration = 1
+Next frame = 0
+
+Frame 131
+Sprite number = 22
+Sprite subnumber = 32771
+Duration = 4
+
+Frame 132
+Sprite number = 19
+Sprite subnumber = 32771
+Duration = 4
+
+Frame 133
+Sprite number = 19
+Sprite subnumber = 32772
+Duration = 4
+
+Frame 134
+Sprite number = 104
+Sprite subnumber = 32768
+Duration = 14
+Next frame = 924
+
+Frame 135
+Sprite number = 7
+Sprite subnumber = 0
+Duration = 2
+
+Frame 136
+Sprite number = 7
+Sprite subnumber = 1
+Duration = 3
+
+Frame 137
+Sprite number = 7
+Sprite subnumber = 0
+Duration = 4
+
+Frame 138
+Sprite number = 7
+Sprite subnumber = 1
+Duration = 5
+Next frame = 49
+
+Frame 139
+Sprite number = 7
+Sprite subnumber = 1
+Duration = 5
+
+Frame 140
+Sprite number = 13
+Sprite subnumber = 32769
+Duration = 3
+Next frame = 78
+
+Frame 141
+Sprite number = 12
+Sprite subnumber = 1
+Duration = 2
+Next frame = 78
+
+Frame 142
+Sprite number = 135
+Duration = 16
+
+Frame 143
+Sprite number = 42
+Sprite subnumber = 32778
+
+Frame 144
+Sprite number = 42
+Sprite subnumber = 32779
+
+Frame 145
+Sprite number = 42
+Sprite subnumber = 32780
+Next frame = 0
+
+Frame 146
+Sprite number = 42
+Sprite subnumber = 32780
+Duration = 4
+Next frame = 0
+
+Frame 149
+Sprite subnumber = 32768
+
+Frame 150
+Sprite subnumber = 32768
+
+Frame 151
+Sprite subnumber = 32769
+
+Frame 152
+Sprite subnumber = 32770
+
+Frame 153
+Sprite subnumber = 32771
+
+Frame 154
+Sprite subnumber = 32772
+
+Frame 156
+Sprite subnumber = 32774
+
+Frame 157
+Sprite subnumber = 32774
+
+Frame 158
+Sprite subnumber = 32775
+
+Frame 159
+Sprite subnumber = 32776
+
+Frame 160
+Sprite subnumber = 32777
+
+Frame 161
+Sprite subnumber = 32778
+
+Frame 162
+Sprite subnumber = 32779
+
+Frame 163
+Sprite subnumber = 32780
+
+Frame 173
+Sprite number = 102
+Sprite subnumber = 0
+
+Frame 174
+Duration = 1
+Next frame = 174
+
+Frame 175
+Duration = 1
+Next frame = 175
+
+Frame 176
+Duration = 200
+
+Frame 183
+Next frame = 178
+
+Frame 195
+Sprite number = 49
+Sprite subnumber = 17
+Duration = 0
+Next frame = 687
+
+Frame 196
+Sprite number = 49
+Sprite subnumber = 4
+Duration = 0
+Next frame = 689
+
+Frame 222
+Duration = 7
+
+Frame 223
+Duration = 7
+
+Frame 224
+Duration = 6
+
+Frame 226
+Duration = 5
+Next frame = 280
+
+Frame 227
+Sprite subnumber = 32780
+
+Frame 228
+Sprite subnumber = 32781
+
+Frame 229
+Sprite subnumber = 32782
+
+Frame 230
+Sprite subnumber = 32783
+
+Frame 231
+Sprite subnumber = 32784
+
+Frame 232
+Sprite subnumber = 32785
+
+Frame 236
+Sprite number = 10
+Sprite subnumber = 2
+Duration = 3
+
+Frame 237
+Sprite number = 10
+Sprite subnumber = 3
+
+Frame 238
+Sprite number = 2
+Sprite subnumber = 1
+Duration = 3
+
+Frame 239
+Sprite number = 2
+Sprite subnumber = 2
+Duration = 4
+
+Frame 240
+Sprite number = 2
+Sprite subnumber = 3
+Duration = 3
+Next frame = 5
+
+Frame 241
+Sprite number = 59
+Next frame = 241
+
+Frame 242
+Sprite number = 24
+Sprite subnumber = 32769
+Duration = 0
+Next frame = 118
+
+Frame 243
+Sprite number = 59
+Sprite subnumber = 1
+
+Frame 244
+Sprite number = 59
+Sprite subnumber = 1
+Duration = 1
+
+Frame 245
+Sprite number = 59
+Sprite subnumber = 2
+
+Frame 246
+Sprite number = 59
+Sprite subnumber = 2
+Duration = 1
+
+Frame 247
+Sprite number = 60
+Sprite subnumber = 0
+
+Frame 248
+Sprite number = 60
+Sprite subnumber = 0
+Duration = 1
+
+Frame 249
+Sprite number = 60
+Sprite subnumber = 1
+
+Frame 250
+Sprite number = 60
+Sprite subnumber = 1
+
+Frame 251
+Sprite number = 60
+Sprite subnumber = 2
+Duration = 6
+
+Frame 252
+Sprite number = 60
+Sprite subnumber = 2
+Duration = 6
+
+Frame 253
+Sprite number = 60
+Sprite subnumber = 3
+
+Frame 254
+Sprite number = 60
+Sprite subnumber = 3
+Duration = 6
+Next frame = 209
+
+Frame 272
+Duration = 5
+
+Frame 273
+Duration = 5
+
+Frame 274
+Duration = 5
+
+Frame 275
+Duration = 5
+
+Frame 276
+Duration = 5
+
+Frame 277
+Duration = 5
+
+Frame 279
+Duration = -1
+Next frame = 0
+
+Frame 311
+Sprite number = 6
+Sprite subnumber = 4
+Duration = 2
+
+Frame 312
+Sprite number = 6
+Sprite subnumber = 5
+Duration = 2
+
+Frame 313
+Sprite number = 6
+Sprite subnumber = 6
+Duration = 7
+
+Frame 314
+Sprite number = 6
+Sprite subnumber = 32775
+Duration = 5
+Next frame = 87
+
+Frame 338
+Next frame = 676
+
+Frame 339
+Sprite subnumber = 6
+Duration = 10
+
+Frame 340
+Sprite subnumber = 32775
+
+Frame 341
+Sprite subnumber = 32776
+
+Frame 342
+Sprite subnumber = 6
+Next frame = 676
+
+Frame 355
+Sprite number = 26
+Sprite subnumber = 32775
+
+Frame 356
+Sprite number = 26
+Sprite subnumber = 32776
+Next frame = 0
+
+Frame 426
+Duration = -1
+Next frame = 0
+
+Frame 429
+Sprite number = 26
+Sprite subnumber = 32770
+
+Frame 430
+Sprite number = 26
+Sprite subnumber = 32771
+
+Frame 431
+Sprite number = 26
+Sprite subnumber = 32772
+
+Frame 432
+Sprite number = 26
+Sprite subnumber = 32773
+
+Frame 433
+Sprite number = 26
+Sprite subnumber = 32774
+Next frame = 0
+
+Frame 442
+Sprite number = 49
+
+Frame 444
+Sprite number = 49
+
+Frame 445
+Sprite number = 49
+
+Frame 449
+Next frame = 444
+
+Frame 450
+Next frame = 444
+
+Frame 451
+Sprite subnumber = 32772
+Duration = 8
+Next frame = 453
+
+Frame 452
+Sprite subnumber = 32772
+Next frame = 451
+
+Frame 453
+Sprite subnumber = 32773
+Next frame = 529
+
+Frame 455
+Sprite subnumber = 32774
+Duration = 1
+Next frame = 455
+
+Frame 485
+Next frame = 477
+
+Frame 487
+Next frame = 485
+
+Frame 502
+Sprite subnumber = 1
+Duration = 1
+
+Frame 503
+Duration = 12
+Next frame = 222
+
+Frame 504
+Sprite subnumber = 0
+Next frame = 585
+
+Frame 506
+Next frame = 504
+
+Frame 509
+Sprite subnumber = 0
+Duration = 3
+Next frame = 587
+
+Frame 510
+Sprite number = 26
+Sprite subnumber = 32777
+Next frame = 429
+
+Frame 527
+Sprite subnumber = 32768
+
+Frame 528
+Sprite subnumber = 32769
+
+Frame 529
+Sprite subnumber = 32768
+
+Frame 530
+Sprite subnumber = 32768
+
+Frame 531
+Sprite subnumber = 32769
+
+Frame 532
+Sprite subnumber = 32769
+
+Frame 533
+Sprite subnumber = 32770
+
+Frame 534
+Sprite subnumber = 32770
+
+Frame 535
+Sprite subnumber = 32771
+
+Frame 536
+Sprite subnumber = 32771
+
+Frame 538
+Sprite subnumber = 6
+Next frame = 728
+
+Frame 539
+Duration = 4
+Next frame = 728
+
+Frame 540
+Sprite subnumber = 32771
+Next frame = 529
+
+Frame 541
+Sprite subnumber = 32775
+
+Frame 542
+Sprite subnumber = 32776
+Next frame = 529
+
+Frame 543
+Sprite subnumber = 32777
+
+Frame 544
+Sprite subnumber = 32778
+
+Frame 545
+Sprite subnumber = 32779
+Next frame = 547
+
+Frame 546
+Sprite subnumber = 32776
+Next frame = 543
+
+Frame 547
+Sprite subnumber = 32780
+Duration = -1
+Next frame = 0
+
+Frame 548
+Sprite subnumber = 12
+
+Frame 585
+Sprite number = 40
+Sprite subnumber = 5
+Duration = 5
+Next frame = 504
+
+Frame 587
+Sprite number = 40
+Sprite subnumber = 0
+Duration = 3
+
+Frame 588
+Sprite number = 40
+Sprite subnumber = 5
+Duration = 3
+
+Frame 589
+Sprite number = 40
+Sprite subnumber = 2
+Duration = 5
+Next frame = 506
+
+Frame 590
+Sprite number = 39
+Sprite subnumber = 5
+
+Frame 591
+Sprite number = 39
+Sprite subnumber = 4
+
+Frame 592
+Sprite number = 39
+Sprite subnumber = 5
+Next frame = 589
+
+Frame 608
+Next frame = 603
+
+Frame 609
+Sprite number = 29
+Sprite subnumber = 0
+Duration = 10
+
+Frame 610
+Sprite number = 29
+Sprite subnumber = 32769
+Duration = 10
+
+Frame 611
+Sprite number = 29
+Sprite subnumber = 32769
+Duration = 10
+
+Frame 612
+Sprite number = 29
+Sprite subnumber = 2
+Duration = 10
+
+Frame 613
+Sprite number = 29
+Sprite subnumber = 32771
+Duration = 10
+
+Frame 614
+Sprite number = 29
+Sprite subnumber = 32771
+Duration = 10
+Next frame = 615
+
+Frame 615
+Sprite subnumber = 6
+
+Frame 619
+Sprite subnumber = 9
+
+Frame 620
+Sprite subnumber = 9
+
+Frame 623
+Sprite subnumber = 32779
+
+Frame 624
+Sprite subnumber = 32780
+
+Frame 625
+Sprite subnumber = 32781
+
+Frame 626
+Sprite subnumber = 32782
+
+Frame 627
+Sprite subnumber = 32783
+
+Frame 647
+Sprite number = 42
+Sprite subnumber = 4
+
+Frame 648
+Sprite number = 42
+Sprite subnumber = 32773
+
+Frame 649
+Sprite number = 42
+Sprite subnumber = 32773
+
+Frame 650
+Sprite number = 42
+Sprite subnumber = 32773
+
+Frame 653
+Sprite number = 39
+Sprite subnumber = 4
+Duration = 10
+
+Frame 654
+Sprite number = 39
+Sprite subnumber = 5
+Duration = 4
+
+Frame 655
+Sprite number = 39
+Sprite subnumber = 4
+Duration = 4
+
+Frame 656
+Sprite number = 39
+Sprite subnumber = 5
+Duration = 4
+Next frame = 653
+
+Frame 669
+Duration = 6
+
+Frame 670
+Duration = 4
+
+Frame 671
+Duration = 4
+
+Frame 672
+Duration = 4
+Next frame = 0
+
+Frame 674
+Sprite number = 43
+Sprite subnumber = 4
+
+Frame 676
+Sprite number = 43
+Sprite subnumber = 4
+
+Frame 677
+Sprite number = 43
+Sprite subnumber = 4
+
+Frame 684
+Sprite number = 0
+Sprite subnumber = 0
+
+Frame 685
+Sprite subnumber = 32772
+
+Frame 686
+Sprite subnumber = 16
+Next frame = 195
+
+Frame 687
+Sprite subnumber = 32785
+
+Frame 688
+Next frame = 196
+
+Frame 689
+Sprite subnumber = 32773
+Next frame = 444
+
+Frame 691
+Duration = 5
+
+Frame 692
+Duration = 5
+
+Frame 693
+Duration = 5
+
+Frame 694
+Duration = 5
+
+Frame 695
+Duration = 5
+
+Frame 696
+Duration = -1
+Next frame = 0
+
+Frame 701
+Sprite number = 44
+Sprite subnumber = 32768
+Next frame = 703
+
+Frame 702
+Sprite number = 44
+Sprite subnumber = 32768
+
+Frame 703
+Sprite number = 44
+Sprite subnumber = 32770
+
+Frame 704
+Sprite number = 44
+Sprite subnumber = 32769
+
+Frame 705
+Sprite number = 44
+Sprite subnumber = 32770
+Next frame = 702
+
+Frame 733
+Next frame = 728
+
+Frame 749
+Duration = 7
+
+Frame 750
+Duration = 7
+
+Frame 751
+Duration = 6
+
+Frame 754
+Duration = -1
+Next frame = 0
+
+Frame 763
+Duration = 8
+Next frame = 764
+
+Frame 764
+Sprite subnumber = 1
+Duration = 8
+Next frame = 763
+
+Frame 765
+Sprite subnumber = 32780
+
+Frame 766
+Sprite subnumber = 32770
+
+Frame 767
+Sprite subnumber = 32771
+
+Frame 768
+Sprite subnumber = 32772
+
+Frame 769
+Sprite subnumber = 32773
+Next frame = 774
+
+Frame 774
+Sprite subnumber = 32774
+
+Frame 776
+Sprite subnumber = 32780
+
+Frame 777
+Sprite subnumber = 32780
+
+Frame 803
+Sprite subnumber = 1
+
+Frame 808
+Sprite number = 19
+Sprite subnumber = 32771
+Duration = 4
+Next frame = 812
+
+Frame 809
+Sprite number = 22
+Sprite subnumber = 32770
+Duration = 6
+
+Frame 810
+Sprite number = 22
+Sprite subnumber = 32771
+Duration = 4
+Next frame = 808
+
+Frame 811
+Sprite number = 22
+Sprite subnumber = 32769
+Duration = 4
+Next frame = 809
+
+Frame 812
+Sprite number = 19
+Duration = 4
+
+Frame 816
+Sprite subnumber = 32768
+
+Frame 817
+Sprite subnumber = 32769
+Next frame = 830
+
+Frame 818
+Sprite subnumber = 32770
+
+Frame 819
+Sprite subnumber = 32771
+Next frame = 828
+
+Frame 828
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 829
+Duration = 6
+
+Frame 830
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 831
+Duration = 6
+
+Frame 832
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 833
+Duration = 6
+
+Frame 834
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 835
+Duration = 6
+
+Frame 836
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 837
+Duration = 6
+
+Frame 838
+Sprite subnumber = 32768
+Duration = 6
+
+Frame 839
+Duration = 6
+
+Frame 840
+Sprite subnumber = 32768
+
+Frame 879
+Sprite subnumber = 32768
+
+Frame 888
+Sprite subnumber = 32768
+Duration = 4
+
+Frame 889
+Sprite subnumber = 32769
+Duration = 4
+
+Frame 890
+Sprite subnumber = 32770
+Duration = 4
+
+Frame 891
+Sprite subnumber = 32769
+Duration = 4
+
+Frame 896
+Sprite number = 120
+Sprite subnumber = 1
+Duration = 6
+Next frame = 921
+
+Frame 901
+Duration = -1
+Next frame = 0
+
+Frame 911
+Duration = 8
+Next frame = 912
+
+Frame 912
+Duration = 8
+Next frame = 911
+
+Frame 914
+Sprite subnumber = 32768
+Duration = 300
+
+Frame 917
+Sprite subnumber = 0
+Duration = 4
+
+Frame 918
+Sprite subnumber = 1
+Duration = 4
+
+Frame 919
+Sprite subnumber = 2
+Duration = 4
+Next frame = 917
+
+Frame 920
+Sprite number = 120
+Sprite subnumber = 0
+Duration = 4
+Next frame = 918
+
+Frame 921
+Sprite subnumber = 0
+
+Frame 922
+Sprite subnumber = 1
+
+Frame 923
+Sprite subnumber = 2
+Next frame = 896
+
+Frame 924
+Sprite number = 22
+Sprite subnumber = 32769
+Duration = 8
+
+Frame 925
+Sprite number = 22
+Sprite subnumber = 32770
+Duration = 6
+Next frame = 131
+
+Frame 926
+Duration = 6
+Next frame = 839
+
+Frame 927
+Duration = 6
+Next frame = 838
+
+Frame 928
+Duration = 6
+Next frame = 837
+
+Frame 929
+Duration = 6
+Next frame = 836
+
+Frame 930
+Sprite subnumber = 0
+Duration = 8
+
+Frame 931
+Sprite subnumber = 1
+Duration = 8
+
+Frame 932
+Sprite subnumber = 2
+Duration = 8
+
+Frame 933
+Sprite subnumber = 3
+Duration = 8
+
+Frame 934
+Sprite subnumber = 0
+
+Frame 935
+Sprite subnumber = 1
+
+Frame 936
+Sprite subnumber = 2
+
+Frame 937
+Sprite subnumber = 3
+
+Frame 946
+Sprite subnumber = 0
+
+Frame 947
+Sprite subnumber = 1
+
+Frame 948
+Sprite subnumber = 2
+
+Frame 949
+Sprite subnumber = 3
+
+Frame 953
+Sprite subnumber = 32768
+
+Frame 955
+Sprite number = 127
+
+Frame 958
+Sprite subnumber = 32768
+
+Frame 959
+Duration = 6
+Next frame = 829
+
+Frame 960
+Duration = 6
+Next frame = 828
+
+Frame 961
+Duration = 6
+Next frame = 835
+
+Frame 962
+Duration = 6
+Next frame = 834
+
+Frame 963
+Duration = 6
+Next frame = 833
+
+Frame 964
+Duration = 6
+Next frame = 832
+
+Frame 965
+Duration = 6
+Next frame = 831
+
+Sound 97
+Zero/One = 1
+
+Weapon 0 (Knife)
+Shooting frame = 17
+
+Weapon 1 (Pistol)
+Shooting frame = 14
+Firing frame = 55
+
+Weapon 2 (Compensator)
+Shooting frame = 22
+
+Weapon 3 (Rotary gun)
+
+Weapon 4 (Grenade launcher)
+Shooting frame = 63
+Firing frame = 65
+
+Weapon 5 (Entropy thrower)
+
+Weapon 6 (Cluster Crystal)
+
+Weapon 7 (Knife)
+Deselect frame = 4
+Select frame = 3
+Bobbing frame = 2
+Shooting frame = 17
+
+Weapon 8 (Compensator)
+Deselect frame = 20
+Select frame = 19
+Bobbing frame = 18
+Shooting frame = 22
+Firing frame = 30
+
+Ammo 0 (Bullets)
+Per ammo = 8
+
+Ammo 1 (Shells)
+Max ammo = 24
+Per ammo = 2
+
+Ammo 2 (Chaos)
+Max ammo = 120
+Per ammo = 10
+
+Ammo 3 (Explosive)
+Max ammo = 24
+
+Pointer 11 (Frame 17)
+Codep Frame = 71
+
+Pointer 20 (Frame 33)
+Codep Frame = 14
+
+Pointer 35 (Frame 54)
+Codep Frame = 43
+
+Pointer 44 (Frame 63)
+Codep Frame = 41
+
+Pointer 45 (Frame 65)
+Codep Frame = 17
+
+Pointer 60 (Frame 80)
+Codep Frame = 31
+
+Pointer 92 (Frame 195)
+Codep Frame = 336
+
+Pointer 93 (Frame 196)
+Codep Frame = 336
+
+Pointer 112 (Frame 242)
+Codep Frame = 119
+
+Pointer 113 (Frame 243)
+Codep Frame = 176
+
+Pointer 114 (Frame 244)
+Codep Frame = 176
+
+Pointer 115 (Frame 245)
+Codep Frame = 176
+
+Pointer 116 (Frame 246)
+Codep Frame = 176
+
+Pointer 117 (Frame 247)
+Codep Frame = 176
+
+Pointer 118 (Frame 248)
+Codep Frame = 176
+
+Pointer 119 (Frame 249)
+Codep Frame = 176
+
+Pointer 120 (Frame 250)
+Codep Frame = 176
+
+Pointer 121 (Frame 251)
+Codep Frame = 176
+
+Pointer 122 (Frame 252)
+Codep Frame = 176
+
+Pointer 123 (Frame 253)
+Codep Frame = 176
+
+Pointer 124 (Frame 254)
+Codep Frame = 176
+
+Pointer 125 (Frame 255)
+Codep Frame = 218
+
+Pointer 234 (Frame 417)
+Codep Frame = 185
+
+Pointer 235 (Frame 418)
+Codep Frame = 185
+
+Pointer 250 (Frame 450)
+Codep Frame = 157
+
+Pointer 251 (Frame 451)
+Codep Frame = 184
+
+Pointer 253 (Frame 453)
+Codep Frame = 487
+
+Pointer 278 (Frame 504)
+Codep Frame = 174
+
+Pointer 295 (Frame 538)
+Codep Frame = 157
+
+Pointer 296 (Frame 539)
+Codep Frame = 157
+
+Pointer 328 (Frame 603)
+Codep Frame = 176
+
+Pointer 332 (Frame 607)
+Codep Frame = 176
+
+Pointer 334 (Frame 609)
+Codep Frame = 184
+
+Pointer 335 (Frame 610)
+Codep Frame = 341
+
+Pointer 336 (Frame 611)
+Codep Frame = 184
+
+Pointer 337 (Frame 612)
+Codep Frame = 184
+
+Pointer 338 (Frame 613)
+Codep Frame = 341
+
+Pointer 339 (Frame 614)
+Codep Frame = 184
+
+Pointer 366 (Frame 653)
+Codep Frame = 184
+
+Pointer 367 (Frame 654)
+Codep Frame = 590
+
+Pointer 371 (Frame 676)
+Codep Frame = 176
+
+Pointer 377 (Frame 682)
+Codep Frame = 176
+
+Pointer 380 (Frame 685)
+Codep Frame = 711
+
+Pointer 422 (Frame 750)
+Codep Frame = 190
+
+Text 405 333
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.
+
+YOUR LEADER AND FRIEND AMIRA WAS ABDUCTED.
+THE MUTANTS OF THE PAX POX HAVE TAKEN HER
+BUT YOU DON'T KNOW WHERE TO.
+
+THIS WEAPONS FACTORY PRODUCED MANY OF THE 
+WEAPONS THAT HELPED CREATE THE MUTANTS.
+IT MAKES SENSE YOU WILL BE ABLE TO FIND MORE
+INFORMATION HERE AND HOPEFULLY A WAY TO
+END THE PAX POX ONCE AND FOR ALL...
+
+HERE WE GO!
+Text 617 379
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.
+YOU FEEL SICK IN YOU STOMACH...
+LOOKING IN THE FACE OF THE MUTANT QUEEN...
+THAT THING... THAT USED TO BE...
+YOUR FRIEND... AMIRA!
+
+THOSE MONSTERS MUST HAVE FOUND A WAY TO
+MUTATE HER AND TURN HER INTO THIS
+HIDIOUS CREATURE TO BEAR THEIR OFFSPRING.
+
+-sigh-
+YOU GET YOURSELF TOGETHER.
+THEY ARE GOING TO PAY FOR MAKING YOU KILL
+YOUR FRIEND!
+
+HELL HATH NO FURY LIKE A WOMAN SCORNED!
+
+Text 164 149
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.YOUR JOURNEY ENDS WHERE IT BEGAN,
+
+NOW THAT IT IS OVER, YOU WONDER:
+HOW MANY MONSTERS ARE STILL OUT THERE?
+AND HOW MANY HUMAN SURVIVORS?
+
+- THE END -
+Text 7 7
+RROCK14SLIME16
+Text 7 7
+RROCK07SLIME16
+Text 7 7
+RROCK17SLIME16
+Text 7 7
+RROCK13SLIME16
+Text 7 7
+RROCK19SLIME16
+Text 9 11
+ZOMBIEMANTHE ECHIDNA
+Text 11 8
+SHOTGUN GUYFOLLOWER
+Text 17 14
+HEAVY WEAPON DUDEMUTANT SOLDIER
+Text 3 3
+IMPBAM
+Text 5 7
+DEMONBEASTL.
+Text 9 4
+LOST SOULMINE
+Text 9 7
+CACODEMONAEROSOL
+Text 11 6
+HELL KNIGHTUNUSED
+Text 13 7
+BARON OF HELLCRITTER
+Text 11 5
+ARACHNOTRONPHAGE
+Text 14 4
+PAIN ELEMENTALMINE
+Text 8 8
+REVENANTPREDATOR
+Text 8 6
+MANCUBUSDEBRIS
+Text 9 9
+ARCH-VILEFALLEN F.
+Text 21 11
+THE SPIDER MASTERMINDTHE ECHIDNA
+Text 14 7
+THE CYBERDEMONCENTAUR
+Text 8 7
+OUR HEROHARMONY
+Text 43 20
+You need a blue key to activate this objectYou need a green key
+Text 42 21
+You need a red key to activate this objectYou need a purple key
+Text 45 21
+You need a yellow key to activate this objectYou need a yellow key
+Text 37 20
+You need a blue key to open this doorYou need a green key
+Text 39 21
+You need a yellow key to open this doorYou need a yellow key
+Text 36 21
+You need a red key to open this doorYou need a purple key
+Text 20 5
+Picked up the armor.Armor
+Text 24 12
+Picked up the MegaArmor!Marine Armor
+Text 25 12
+Picked up a health bonus.Health bonus
+Text 25 11
+Picked up an armor bonus.Armor patch
+Text 12 12
+Supercharge!Super health
+Text 25 13
+Picked up a blue keycard.Green keycard
+Text 27 14
+Picked up a yellow keycard.Yellow keycard
+Text 24 14
+Picked up a red keycard.Purple keycard
+Text 27 9
+Picked up a blue skull key.Green key
+Text 29 10
+Picked up a yellow skull key.Yellow key
+Text 26 10
+Picked up a red skull key.Purple key
+Text 21 16
+Picked up a stimpack.Healing mushroom
+Text 41 16
+Picked up a medikit that you REALLY need!You needed that!
+Text 20 11
+Picked up a medikit.Medical kit
+Text 8 5
+Berserk!RAGE!
+Text 20 5
+Partial InvisibilityCloak
+Text 24 14
+Radiation Shielding SuitAnti-radiation
+Text 17 5
+Computer Area MapA map
+Text 25 5
+Light Amplification VisorLight
+Text 17 7
+Picked up a clip.Bullets
+Text 27 7
+Picked up a box of bullets.Bullets
+Text 19 11
+Picked up a rocket.Gem grenade
+Text 27 12
+Picked up a box of rockets.Gem grenades
+Text 25 9
+Picked up an energy cell.Chaos bar
+Text 30 10
+Picked up an energy cell pack.Chaos bars
+Text 27 16
+Picked up 4 shotgun shells.4 Shotgun shells
+Text 34 14
+Picked up a box of shotgun shells.Shotgun shells
+Text 34 13
+Picked up a backpack full of ammo!Ammo backpack
+Text 30 16
+You got the BFG9000!  Oh, yes.Cluster crystal!
+Text 21 7
+You got the chaingun!Minigun
+Text 28 16
+You got the rocket launcher!Grenade launcher
+Text 23 15
+You got the plasma gun!Entropy thrower
+Text 20 7
+You got the shotgun!Shotgun
+Text 7 7
+Green: Purpl: 
+Text 8 7
+Indigo: Green: 
+Text 7 7
+Brown: Orang: 
+Text 17 16
+level 1: entrywaymap01: abduction
+Text 19 17
+level 2: underhallsmap02: harm's way
+Text 20 22
+level 3: the gantletmap03: mount sacrifice
+Text 18 18
+level 4: the focusmap04: megalopolis
+Text 26 19
+level 5: the waste tunnelsmap05: the hospital
+Text 20 22
+level 6: the crushermap06: weapons factory
+Text 20 21
+level 7: dead simplemap07: underwater lab
+Text 25 19
+level 8: tricks and trapsmap08: airstrip one
+Text 16 18
+level 9: the pitmap09: launch base
+Text 24 27
+level 10: refueling basemap10: the radioactive zone
+Text 29 14
+level 11: 'o' of destruction!map11: echidna
+Text 21 14
+level 12: the factorymap12: mutopia
+Text 18 16
+level 13: downtownmap13: the omega
+Text 25 16
+level 14: the inmost densmap14: -credits-
+Text 25 21
+level 15: industrial zonemap15: bonus- rematch
+Text 17 16
+level 16: suburbsmap16: empty map
+Text 19 16
+level 17: tenementsmap17: empty map
+Text 23 16
+level 18: the courtyardmap18: empty map
+Text 21 16
+level 19: the citadelmap19: empty map
+Text 17 16
+level 20: gotcha!map20: empty map
+Text 17 16
+level 21: nirvanamap21: empty map
+Text 23 16
+level 22: the catacombsmap22: empty map
+Text 24 16
+level 23: barrels o' funmap23: empty map
+Text 19 16
+level 24: the chasmmap24: empty map
+Text 20 16
+level 25: bloodfallsmap25: empty map
+Text 29 16
+level 26: the abandoned minesmap26: empty map
+Text 23 16
+level 27: monster condomap27: empty map
+Text 26 16
+level 28: the spirit worldmap28: empty map
+Text 24 16
+level 29: the living endmap29: empty map
+Text 21 16
+level 30: icon of sinmap30: empty map
+Text 21 17
+level 31: wolfensteinmap31: -credits- 
+Text 16 16
+level 32: grossemap32: empty map

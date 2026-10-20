@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Doom",
+    "url": "doom1.m3u",
+    "demo": true,
+    "y90": true,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Freedoom: Phase 1",
+    "url": "freedoom1.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Freedoom: Phase 2",
+    "url": "freedoom2.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Heretic",
+    "url": "heretic1.m3u",
+    "demo": true,
+    "y90": true,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Blasphemer",
+    "url": "blasphem.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Blasphemer Deathmatch",
+    "url": "blasphdm.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["dm"]
+  },
+  {
+    "title": "HACX",
+    "url": "hacx.m3u",
+    "demo": false,
+    "y90": true,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Chex Quest 3",
+    "url": "chex3.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["campaign", "coop", "dm"]
+  },
+  {
+    "title": "Harmony",
+    "url": "harmony.m3u",
+    "demo": false,
+    "y90": false,
+    "modes": ["campaign", "coop", "dm"]
+  }
+]
