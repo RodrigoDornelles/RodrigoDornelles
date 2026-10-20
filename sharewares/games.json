@@ -2,6 +2,7 @@
   {
     "title": "Doom",
     "url": "doom1.m3u",
+    "banner": "banners/doom1.png",
     "demo": true,
     "y90": true,
     "modes": ["campaign", "coop", "dm"]
@@ -9,6 +10,7 @@
   {
     "title": "Freedoom: Phase 1",
     "url": "freedoom1.m3u",
+    "banner": "banners/freedoom.png",
     "demo": false,
     "y90": false,
     "modes": ["campaign", "coop", "dm"]
@@ -16,6 +18,7 @@
   {
     "title": "Freedoom: Phase 2",
     "url": "freedoom2.m3u",
+    "banner": "banners/freedoom.png",
     "demo": false,
     "y90": false,
     "modes": ["campaign", "coop", "dm"]
@@ -23,6 +26,7 @@
   {
     "title": "Heretic",
     "url": "heretic1.m3u",
+    "banner": "banners/heretic.png",
     "demo": true,
     "y90": true,
     "modes": ["campaign", "coop", "dm"]
@@ -30,6 +34,7 @@
   {
     "title": "Blasphemer",
     "url": "blasphem.m3u",
+    "banner": "banners/blasphemer.png",
     "demo": false,
     "y90": false,
     "modes": ["campaign", "coop", "dm"]
@@ -37,6 +42,7 @@
   {
     "title": "Blasphemer Deathmatch",
     "url": "blasphdm.m3u",
+    "banner": "banners/blasphemer.png",
     "demo": false,
     "y90": false,
     "modes": ["dm"]
@@ -44,6 +50,7 @@
   {
     "title": "HACX",
     "url": "hacx.m3u",
+    "banner": "banners/hacx.png",
     "demo": false,
     "y90": true,
     "modes": ["campaign", "coop", "dm"]
@@ -51,6 +58,7 @@
   {
     "title": "Chex Quest 3",
     "url": "chex3.m3u",
+    "banner": "banners/chex3.png",
     "demo": false,
     "y90": false,
     "modes": ["campaign", "coop", "dm"]
@@ -58,6 +66,7 @@
   {
     "title": "Harmony",
     "url": "harmony.m3u",
+    "banner": "banners/harmony.png",
     "demo": false,
     "y90": false,
     "modes": ["campaign", "coop", "dm"]
