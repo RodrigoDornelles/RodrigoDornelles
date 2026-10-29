@@ -1,0 +1,26 @@
+[
+  {
+    "title": "GeneralUser GS",
+    "url": "mods/midi/GeneralUser-GS.sf2",
+    "author": "S. Christian Collins",
+    "license": "GeneralUser GS License v2.0"
+  },
+  {
+    "title": "MuseScore General",
+    "url": "mods/midi/MuseScore_General.sf3",
+    "author": "Frank Wen, Michael Cowgill & S. Christian Collins",
+    "license": "MIT"
+  },
+  {
+    "title": "Fluid R3 GM",
+    "url": "mods/midi/FluidR3_GM.sf3",
+    "author": "Frank Wen & Toby Smithe",
+    "license": "MIT"
+  },
+  {
+    "title": "TimGM6mb",
+    "url": "mods/midi/TimGM6mb.sf2",
+    "author": "Tim Brechbill & David Bolton",
+    "license": "GPL-2.0"
+  }
+]
